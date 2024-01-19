@@ -1,0 +1,199 @@
+{
+  "title": "Você seria um heroi ou vilão ?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual super poder você escolheria ?",
+      "options": [
+        { "id": 1, "name": "Raios-Lasers", "alias": "A" },
+        { "id": 2, "name": "Voar", "alias": "B" },
+        { "id": 3, "name": "Explodir coisas", "alias": "A" },
+        { "id": 4, "name": "Curar feridas", "alias": "B" },
+        { "id": 5, "name": "Soltar fogo pelas mãos", "alias": "A" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quem você salvaria primeiro ?",
+      "options": [
+        { "id": 1, "name": "Crianças", "alias": "A" },
+        { "id": 2, "name": "Idosos", "alias": "A" },
+        { "id": 3, "name": "Não saberia escolher", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "options": [
+        { "id": 1, "name": "Não destruir prédios", "alias": "B" },
+        { "id": 2, "name": "Socar a cara do inimigo", "alias": "A" },
+        { "id": 3, "name": "Não sujar meu traje", "alias": "A" },
+        { "id": 4, "name": "Não deixar ninguém se ferir", "alias": "B" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual o seu maior foco ?",
+      "options": [
+        { "id": 1, "name": "Ficar rico com poderes", "alias": "A" },
+        { "id": 2, "name": "Salvar a cidade", "alias": "B" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual o seu apelido de super ser ?",
+      "options": [
+        { "id": 1, "name": "O Terrivel", "alias": "A" },
+        { "id": 2, "name": "Amigo da vizinhança", "alias": "B" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "O que faria se descobrisse que um amigo super ser está causando estragos na cidade?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Unir-me a ele para conquistar a cidade",
+          "alias": "A"
+        },
+        { "id": 2, "name": "Tentar convencê-lo a parar", "alias": "B" },
+        {
+          "id": 3,
+          "name": "Reportar seu comportamento às autoridades",
+          "alias": "A"
+        },
+        { "id": 4, "name": "Desafiar para um confronto direto", "alias": "B" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Como lidaria com um inimigo ameaçando sua identidade secreta?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Revelar minha identidade para proteger os outros",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Usar habilidades para manter identidade em segredo",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Criar distração para desviar atenção da identidade",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Negociar para manter identidade em segredo",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Mais importante para você: vingança ou justiça?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Buscar equilíbrio entre vingança e justiça",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Deixar destino decidir entre vingança e justiça",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Priorizar justiça, mas entender vingança",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Equilibrar vingança com busca por justiça",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Sacrificaria uma pessoa para salvar muitas outras?",
+      "options": [
+        { "id": 1, "name": "Sim, se fosse necessário", "alias": "A" },
+        {
+          "id": 2,
+          "name": "Não, nunca sacrificaria outra pessoa",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Procuraria solução sem sacrificar outra pessoa",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Dependeria das circunstâncias para sacrificar outra pessoa",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Mais importante para você: poder ou responsabilidade?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Priorizar responsabilidade ao usar poder",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Explorar poder ao máximo sem se preocupar com responsabilidade",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Balancear poder com responsabilidade",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Usar poder para garantir responsabilidade",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Como você reagiria a uma ameaça global iminente?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Usaria meus poderes para enfrentar a ameaça diretamente",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Trabalharia em conjunto com outros super seres para resolver a ameaça",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Deixaria a situação para as autoridades mundiais lidarem",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Procuraria uma solução diplomática antes de recorrer a ações drásticas",
+          "alias": "B"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Muito provavelmente seria um super vilão!",
+    "B": "Muito provavelmente seria um super Herói!"
+  }
+}
